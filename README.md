@@ -1,2 +1,2 @@
 # Rosalind-Solutions
-My solutions to rosalind problems (http://rosalind.info/about/) written in python 3.
+My solutions to rosalind problems (http://rosalind.info/about/) written in python3.
